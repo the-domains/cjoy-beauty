@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CJoy Beauty]]></title>
         <description><![CDATA[CJoy Beauty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cjoy-beauty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 16:33:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 23:52:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cjoy-beauty/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/432f7d26-b93c-4b1f-be7a-7b839789189b.jpg">]]></description>
-            <link>undefined9d817802-8fc4-442b-8860-0ec7545b1be8/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e91c5c1906a8c2813f6632c4da2a40a190598adc.jpg">]]></description>
+            <link>https://thegrid.ai/cjoy-beauty/9d817802-8fc4-442b-8860-0ec7545b1be8/index.html</link>
             <guid isPermaLink="false">9d817802-8fc4-442b-8860-0ec7545b1be8</guid>
-            <pubDate>Mon, 22 Feb 2016 16:33:45 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 23:52:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
