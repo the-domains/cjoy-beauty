@@ -1,19 +1,4 @@
-name: CJoy Beauty
-favicon: null
-layout_spectrum: 0.40506
 typography_spectrum: 0.79368
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#c4e1fb'
@@ -25,4 +10,19 @@ color:
   lightness: 0.75
   saturation: 0.25
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.40506
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: CJoy Beauty
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
